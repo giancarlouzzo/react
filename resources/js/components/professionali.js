@@ -62,7 +62,7 @@ class DrawerForm extends React.Component {
                                             }
                                         ]
                                     })(
-                                        <Input placeholder="Please enter user name" />
+                                        <Input placeholder="Please entedsdfsfr user name" />
                                     )}
                                 </Form.Item>
                             </Col>
